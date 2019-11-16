@@ -1,8 +1,21 @@
 <template>
   <div>
+    <span id="nav_home" />
+    <NavBar />
     <nuxt />
+    <Footer />
   </div>
 </template>
+
+<script>
+import NavBar from '~/components/NavBar'
+
+export default {
+  components: {
+    NavBar
+  }
+}
+</script>
 
 <style>
 html {

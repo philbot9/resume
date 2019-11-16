@@ -1,0 +1,42 @@
+// Import Bulma's core
+@import "~bulma/sass/utilities/_all";
+
+$prussianBlue: #0b3c5d;
+$skyBlue: #328cc1;
+$goldLeaf: #d9b310;
+$ivoryBlack: #1d2731;
+
+/* Overrides goes between here... */
+// Set your colors
+$primary: $prussianBlue;
+$primary-invert: findColorInvert($primary);
+
+$info: $skyBlue;
+$info-invert: findColorInvert($info);
+
+$menuItem: $ivoryBlack;
+$menuItem-invert: findColorInvert($menuItem);
+
+// Setup $colors to use as bulma classes (e.g. 'is-twitter')
+$colors: (
+    "white": ($white, $black),
+    "black": ($black, $white),
+    "light": ($light, $light-invert),
+    "dark": ($dark, $dark-invert),
+    "primary": ($primary, $primary-invert),
+    "info": ($info, $info-invert),
+    "success": ($success, $success-invert),
+    "warning": ($warning, $warning-invert),
+    "danger": ($danger, $danger-invert),
+    "menuItem": ($menuItem, $menuItem-invert)
+);
+
+// Links
+$link: $info;
+$link-invert: $info-invert;
+$link-focus-border: $info;
+
+
+@import "~bulma";
+@import "~buefy/src/scss/buefy";
+

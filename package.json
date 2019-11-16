@@ -12,8 +12,13 @@
     "test": "jest"
   },
   "dependencies": {
+    "@nuxtjs/pwa": "^3.0.0-0",
+    "buefy": "^0.8.6",
+    "node-sass": "^4.13.0",
     "nuxt": "^2.0.0",
-    "@nuxtjs/pwa": "^3.0.0-0"
+    "sass-loader": "^8.0.0",
+    "vue-scrollactive": "^0.8.0",
+    "vue-scrollto": "^2.17.1"
   },
   "devDependencies": {
     "eslint-config-prettier": "^4.1.0",
