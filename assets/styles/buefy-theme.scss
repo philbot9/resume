@@ -3,7 +3,8 @@
 
 $prussianBlue: #0b3c5d;
 $skyBlue: #328cc1;
-$goldLeaf: #d9b310;
+// $goldLeaf: #d9b310;
+$goldLeaf: #bfa01b;
 $ivoryBlack: #1d2731;
 
 /* Overrides goes between here... */
@@ -17,6 +18,9 @@ $info-invert: findColorInvert($info);
 $menuItem: $ivoryBlack;
 $menuItem-invert: findColorInvert($menuItem);
 
+$highlight: $goldLeaf;
+$highlight-invert: findColorInvert($highlight);
+
 // Setup $colors to use as bulma classes (e.g. 'is-twitter')
 $colors: (
     "white": ($white, $black),
@@ -28,7 +32,8 @@ $colors: (
     "success": ($success, $success-invert),
     "warning": ($warning, $warning-invert),
     "danger": ($danger, $danger-invert),
-    "menuItem": ($menuItem, $menuItem-invert)
+    "menuItem": ($menuItem, $menuItem-invert),
+    "highlight": ($highlight, $highlight-invert)
 );
 
 // Links

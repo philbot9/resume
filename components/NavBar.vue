@@ -23,7 +23,7 @@
 
 <style scoped>
 h1 {
-  font-size: 16pt;
+  font-size: 17pt;
   font-weight: 500;
 }
 </style>
