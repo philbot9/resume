@@ -17,6 +17,7 @@
       <b-navbar-item class="has-text-menuItem" tag="a" v-scroll-to="'#nav_work'">Work</b-navbar-item>
       <b-navbar-item class="has-text-menuItem" tag="a" v-scroll-to="'#nav_education'">Education</b-navbar-item>
       <b-navbar-item class="has-text-menuItem" tag="a" v-scroll-to="'#nav_skills'">Skills</b-navbar-item>
+      <b-navbar-item class="has-text-menuItem" tag="a" v-scroll-to="'#nav_contact'">Contact</b-navbar-item>
     </template>
   </b-navbar>
 </template>
