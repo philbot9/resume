@@ -3,13 +3,13 @@
     <section class="hero is-primary">
       <div class="hero-body">
         <div class="container">
-          <h2 class="title has-text-centered" id="nav_profile">Profile</h2>
+          <h2 class="title" id="nav_profile">Profile</h2>
           <ul>
             <li>Passionate mid-level developer with 3+ years of professional experience in web and mobile development</li>
             <li>Skilled at delivering high-quality software solutions driven by customer requirements</li>
             <li>Proficient in producing readable and test-able code in high-pressure environments</li>
             <li>Self-motivated independent worker and personable team-player</li>
-            <li>A fast learner committed to investing in interesting projects and enhancing and developing new skills</li>
+            <li>A fast learner committed to engaging with interesting projects and enhancing and developing new skills</li>
           </ul>
         </div>
       </div>
@@ -17,7 +17,7 @@
 
     <section class="section">
       <div class="container">
-        <h2 class="title has-text-centered" id="nav_work">Work Experience</h2>
+        <h2 class="title" id="nav_work">Work Experience</h2>
 
         <hr />
 
@@ -57,7 +57,7 @@
 
     <section class="section">
       <div class="container">
-        <h1 class="title has-text-centered" id="nav_contracts">Professional Contracts</h1>
+        <h1 class="title" id="nav_contracts">Professional Contracts</h1>
 
         <hr />
 
@@ -88,7 +88,7 @@
 
     <section class="section">
       <div class="container">
-        <h1 class="title has-text-centered" id="nav_education">Education</h1>
+        <h1 class="title" id="nav_education">Education</h1>
 
         <hr />
 
@@ -136,7 +136,7 @@
 
     <section class="section">
       <div class="container">
-        <h1 class="title has-text-centered" id="nav_skills">Skill Levels</h1>
+        <h1 class="title" id="nav_skills">Skill Levels</h1>
         <hr />
 
         <div class="columns is-8">
@@ -195,7 +195,7 @@
             <SkillIndicator
               title="Embedded / IoT"
               subtitle="Arduino, RaspberryPi"
-              value="60"
+              value="50"
               level="Limited"
             />
           </div>
@@ -206,22 +206,22 @@
     <section class="hero is-primary">
       <div class="hero-body">
         <div class="container">
-          <h2 class="title has-text-centered" id="nav_contact">Contact</h2>
+          <h2 class="title" id="nav_contact">Contact</h2>
           <div class="columns">
-            <div class="column is-half is-offset-one-quarter has-text-centered">
+            <div class="column">
               <h3 class="is-size-5">Philip Klostermann</h3>
               <p>
-                <b-icon type icon="home" size="is-small" />&nbsp;
+                <b-icon icon="home" size="is-small" />&nbsp;
                 2-52 Pinehurst Ave, Ottawa ON K1Y 1K4
               </p>
 
               <p>
-                <b-icon type icon="phone" size="is-small" />&nbsp;
+                <b-icon icon="phone" size="is-small" />&nbsp;
                 <a class="has-text-white" href="tel:6138049307">(613) 804-9307</a>
               </p>
 
               <p>
-                <b-icon type icon="envelope" size="is-small" />&nbsp;
+                <b-icon icon="envelope" size="is-small" />&nbsp;
                 <a
                   class="has-text-white"
                   href="mailto:philip.klostermann@gmail.com"
@@ -230,12 +230,12 @@
 
               <p>
                 <br />
-                <b-icon type icon="github" size="is-small" />&nbsp;
+                <b-icon icon="code" size="is-small" />&nbsp;
                 <a
                   class="has-text-white"
                   target="_blank"
                   href="https://github.com/philbot9"
-                >philbot9</a>
+                >GitHub Profile</a>
               </p>
             </div>
           </div>
