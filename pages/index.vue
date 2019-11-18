@@ -24,11 +24,11 @@
         <TimeLineElement
           title="Software Developer"
           subtitle="05/2017 - Present"
-          infoTitle="FaveQuest Inc"
-          location="Ottawa"
+          infoTitle="FaveQuest Inc."
+          location="Ottawa, ON"
         >
           <ul>
-            <li>Developed a complex customisable Cordova mobile application with React</li>
+            <li>Developed a complex customisable Cordova mobile application with React/li></li>
             <li>Implemented a Progressive Web App with offline support based on the Cordova mobile application</li>
             <li>Communicated directly with customers to gather requirements for custom app features, creating mockups for early feedback</li>
             <li>Worked on a Node.js backend with a GraphQL API as well as the mobile GraphQL client</li>
@@ -40,10 +40,10 @@
         <hr />
 
         <TimeLineElement
-          title="Part-time Software Developer"
+          title="Part-time Junior Software Developer"
           subtitle="03/2015 - 05/2017"
-          infoTitle="FaveQuest Inc"
-          location="Ottawa"
+          infoTitle="FaveQuest Inc."
+          location="Ottawa, ON"
         >
           <ul>
             <li>Developed web scrapers to pull data into the CMS</li>
@@ -63,8 +63,8 @@
 
         <TimeLineElement subtitle="2018 - 2019" infoTitle="smartAudio GmbH" location="Germany">
           <ul>
-            <li>Designed and implemented mobile Android and iOS applications in React Native to facilitate push-to-talk voice communication with a customised Bluetooth headset for police services</li>
-            <li>Created a design specification for a wirelesss communication protocol between the mobile application and Bluetooth headset via BLE</li>
+            <li>Designed and implemented mobile Android and iOS applications in React Native to facilitate push-to-talk voice communication with customised Bluetooth devices for police services</li>
+            <li>Created a design specification for a protocol to control a Bluetooth headset via BLE</li>
           </ul>
         </TimeLineElement>
 
@@ -73,7 +73,7 @@
         <TimeLineElement
           subtitle="2016 & 2019"
           infoTitle="University of Alberta"
-          location="Edmonton"
+          location="Edmonton, AB"
         >
           <ul>
             <li>Designed and implemented software programs to produce digital data sets from social media and other websites used in quantitative and qualitative analysis in Health and Law research</li>
@@ -96,7 +96,7 @@
           title="Carleton University"
           subtitle="09/2014 - 05/2017"
           infoTitle="BSc (Hons.) in Computer Science – Software Engineering"
-          location="Ottawa"
+          location="Ottawa, ON"
         >
           <ul>
             <li>Graduated with High Distinction</li>
@@ -122,8 +122,8 @@
             <li>Transferred to Carleton University after 2nd year</li>
             <li>Relevant coursework:</li>
             <ul>
-              <li>Networking using industry-grade Cisco equipment</li>
-              <li>Requirements Engineering and OO-Analysis and Design</li>
+              <li>Computer Networking using industry-grade Cisco equipment</li>
+              <li>Requirements Engineering and Object Oriented Analysis and Design</li>
             </ul>
           </ul>
         </TimeLineElement>
@@ -143,7 +143,7 @@
           <div class="column">
             <SkillIndicator
               title="JavaScript"
-              subtitle="React, Node.js"
+              subtitle="React, Node.jsm GraphQL"
               value="100"
               level="Professional"
             />
@@ -195,7 +195,7 @@
             <SkillIndicator
               title="Embedded / IoT"
               subtitle="Arduino, RaspberryPi"
-              value="50"
+              value="55"
               level="Limited"
             />
           </div>
@@ -212,7 +212,7 @@
               <h3 class="is-size-5">Philip Klostermann</h3>
               <p>
                 <b-icon icon="home" size="is-small" />&nbsp;
-                2-52 Pinehurst Ave, Ottawa ON K1Y 1K4
+                2-52 Pinehurst Ave, Ottawa, ON K1Y 1K4
               </p>
 
               <p>
