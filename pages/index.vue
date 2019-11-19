@@ -28,7 +28,7 @@
           location="Ottawa, ON"
         >
           <ul>
-            <li>Developed a complex customisable Cordova mobile application with React/li></li>
+            <li>Developed a complex customisable Cordova mobile application with React</li>
             <li>Implemented a Progressive Web App with offline support based on the Cordova mobile application</li>
             <li>Communicated directly with customers to gather requirements for custom app features, creating mockups for early feedback</li>
             <li>Worked on a Node.js backend with a GraphQL API as well as the mobile GraphQL client</li>
